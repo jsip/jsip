@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jsip
 - 👀 I’m interested in full stack programming and finance-related stuff.
-- ❤  HTML/CSS/JavaScript, TypeScript, Python, MERN related-technologies, Github, Docker 
+- ❤  HTML/CSS/JavaScript, TypeScript, Python, MERN related-technologies, Unix/Windows, Github, GCP, AWS, Docker/Kubernetes
 - 🌱 I’m currently learning GoLang
 - 📫 jsimonroyer@gmail.com
 
